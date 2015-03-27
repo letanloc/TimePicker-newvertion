@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res"><file name="ic_launcher" path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_main" path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\layout-nodpi\activity_main.xml" qualifiers="nodpi-v4" type="layout"/><file name="time_picker_layout" path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\layout-nodpi\time_picker_layout.xml" qualifiers="nodpi-v4" type="layout"/><file path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\values-nodpi\attrs.xml" qualifiers="nodpi-v4"><declare-styleable name="wheel">
+        <attr format="reference|integer" name="lineSplitHeight"/>
+        <attr format="reference|color" name="textColorFirst"/>
+        <attr format="reference|color" name="textColorSecond"/>
+        <attr format="reference|color" name="textColorThird"/>
+        <attr format="reference|color" name="splitLineColor"/>
+        <attr format="reference|integer" name="textSize"/>
+        <attr name="textGravity">
+            <flag name="left" value="-1"/>
+            <flag name="center" value="0"/>
+            <flag name="right" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\values-nodpi\colors.xml" qualifiers="nodpi-v4"><color name="deep_gray">#666666</color><color name="picker_bar_bg">#F5F5F5</color><color name="white">#ffffff</color><color name="light_gray">#b3b3b3</color><color name="light_s_gray">#cccccc</color><color name="dark_orange">#c87000</color><color name="translucent_80_dark">#cc000000</color><color name="deep_s_gray">#454545</color><color name="deep_ss_gray">#333333</color><color name="gray">#888888</color><color name="orange">#ff8a01</color><color name="split_line_gray">#B8B8B8</color></file><file path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\values-nodpi\dimens.xml" qualifiers="nodpi-v4"><dimen name="font_size_xx_small">32px</dimen><dimen name="font_size_xxxxx_large">144px</dimen><dimen name="font_size_xxxx_large">124px</dimen><dimen name="wheel_line_split_height">45px</dimen><dimen name="font_size_s_large">60px</dimen><dimen name="font_size_small">45px</dimen><dimen name="font_size_small_44">44px</dimen><dimen name="font_size_medium">54px</dimen><dimen name="font_size_x_large">72px</dimen><dimen name="font_size_x_small">40px</dimen><dimen name="font_size_xx_large">90px</dimen><dimen name="font_size_x_large1">84px</dimen><dimen name="font_size_small_40">40px</dimen><dimen name="font_size_small_30">30px</dimen><dimen name="font_size_large">63px</dimen><dimen name="font_size_xxx_large">100px</dimen><dimen name="font_size_small1">48px</dimen><dimen name="font_size_medium_50">50px</dimen></file><file path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\values-nodpi\strings.xml" qualifiers="nodpi-v4"><string-array name="time_picker_date">
+        <item>今天</item>
+        <item>明天</item>
+        <item>后天</item>
+    </string-array><string name="app_name">TimePicker</string></file><file path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\main\res\values-nodpi\styles.xml" qualifiers="nodpi-v4"><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file></source><source path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\build\generated\res\rs\debug"/><source path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\lee\Desktop\TimePicker-newvertion1\app\src\debug\res"/></dataSet><mergedItems/></merger>
